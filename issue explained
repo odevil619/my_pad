@@ -1,0 +1,11 @@
+
+I have tried write the program in using classes and objects.
+The program seems to workin backend as I was able to create CSV file of the scraped product,
+The functions are name acc to the work they are performing.
+
+
+My queries,
+1.whenI do the search and call the /scrap api, it gives the error,why is the coz and how can i fix it.
+2.I would like to fetch the data from the mongodb collection to show in the frontend when I call the /scrap API
+
+
